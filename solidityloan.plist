@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://surongzhijia.com/surong-2.2-signed.ipa</string>
+					<string>https://srzj.surongzhijia.com/product/solidityloan.ipa?Expires=1556632092&OSSAccessKeyId=TMP.AgHxz1V14h-sRdgV-qgqylGUaXoUxo_pOCrVmdHPJtch8yaS2Fzibmb6_XbJMC4CFQC61OSf659ZyEssmoe7EfA2EjogjQIVALd4uANgwZHyS3Cd0Syl-IfiMQR_&Signature=mPGGy06F31Ng0UzJu4lHKbfbv1k%3D</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 				<key>bundle-identifier</key>
 				<string>com.solidityloan</string>
 				<key>bundle-version</key>
-				<string>2.2</string>
+				<string>2.3</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
